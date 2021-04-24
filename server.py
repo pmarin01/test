@@ -1,4 +1,4 @@
-heroku create myapp --buildpack heroku/python
+#heroku create myapp --buildpack heroku/python
 
 from flask import Flask, request, abort
 
